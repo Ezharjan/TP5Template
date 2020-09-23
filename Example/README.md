@@ -1,4 +1,4 @@
-ThinkPHP 5.0
+This is an example, delete this folder while using.   //   ThinkPHP 5.0
 ===============
 
 
@@ -7,7 +7,7 @@ ThinkPHP 5.0
 
 ## 使用方法
 
-本模板为Think PHP 5的项目模板，通用于各类基于TP5开发的后端项目；使用时直接将本项目文件名“TP5Template”改为自己所要开发的项目文件名即可。之后放置在阿帕奇服务器下即可，推荐使用XAMPP。
+本模板为Think PHP 5的项目模板，通用于各类基于TP5开发的后端项目；使用时直接将本项目文件名“TP5Template”改为自己所要开发的项目文件名即可。
 
 
 
